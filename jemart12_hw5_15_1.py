@@ -1,7 +1,4 @@
 """
-Name: Jose Martinez
-Class: CS 521 - 2020 Spring 1
-Date: February 22, 2020
 Homework Problem # 15.1
 Description: Sum the digits of an integer using recursion
 """
